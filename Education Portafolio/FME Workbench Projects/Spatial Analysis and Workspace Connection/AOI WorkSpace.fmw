@@ -1,0 +1,1009 @@
+#! <?xml version="1.0" encoding="UTF-8" ?>
+#! <WORKSPACE
+#    Command line to run this workspace:
+#        "C:\Program Files\FME\fme.exe" "C:\COGS\Winter Courses\GISY5040_ETL Fundamentals\Assignments\Assignment03\ass03_WorkspaceBoundingBox.fmw"
+#          --Xmin "463162.15165937506"
+#          --Xmax "486965.54025851935"
+#          --Ymax "4974930.476262746"
+#          --Ymin "4960788.011319084"
+#          --FME_LAUNCH_VIEWER_APP "YES"
+#    
+#!   A0_PREVIEW_IMAGE="data:image/png;base64,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"
+#!   ARCGIS_COMPATIBILITY="ARCGIS_AUTO"
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   BEGIN_PYTHON=""
+#!   BEGIN_TCL=""
+#!   CATEGORY=""
+#!   DESCRIPTION=""
+#!   DESTINATION="NONE"
+#!   DESTINATION_ROUTING_FILE=""
+#!   DOC_EXTENTS="3132.32 945.217"
+#!   DOC_TOP_LEFT="-557.047 -975.843"
+#!   ENABLE_DATA_CACHING="Yes"
+#!   ENABLE_FEATURE_COUNTING="Yes"
+#!   ENABLE_PERFORMANCE_PROFILING="No"
+#!   END_PYTHON=""
+#!   END_TCL=""
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   FME_BUILD_NUM="25815"
+#!   FME_BULK_MODE_THRESHOLD="2000"
+#!   FME_DOCUMENT_GUID="93d7716c-aab7-48f4-8645-38b7858a6109"
+#!   FME_DOCUMENT_PRIORGUID="e254d496-4e60-4ac2-bf06-4f4be82e739c,38d4093c-7a60-4357-8aa7-a7dc8ca4cf57,cf98ae05-944e-4044-849b-c1d402203ce4,f30fc40c-cc60-4fd2-ad53-998d19634051"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   FME_NAMES_ENCODING="UTF-8"
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   FME_SERVER_SERVICES=""
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   HISTORY=""
+#!   IGNORE_READER_FAILURE="No"
+#!   LAST_SAVE_BUILD="FME(R) 2025.2.1.0 (20251202 - Build 25815 - WIN64)"
+#!   LAST_SAVE_DATE="2026-03-08T18:24:30"
+#!   LOG_FILE=""
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   MARKDOWN_DESCRIPTION=""
+#!   MARKDOWN_USAGE=""
+#!   MAX_LOG_FEATURES="200"
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   PASSWORD=""
+#!   PROMPT_FOR_PARAMS="Yes"
+#!   PYTHON_COMPATIBILITY="313"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   SAVE_ON_PROMPT_AND_RUN="Yes"
+#!   SHOW_ANNOTATIONS="true"
+#!   SHOW_INFO_NODES="true"
+#!   SOURCE="NONE"
+#!   SOURCE_ROUTING_FILE=""
+#!   STOP_AT_BREAKPOINTS="No"
+#!   TERMINATE_REJECTED="YES"
+#!   TITLE=""
+#!   USAGE=""
+#!   USE_MARKDOWN=""
+#!   VIEW_POSITION="-1072.06 898.446"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   WORKSPACE_VERSION="1"
+#!   ZOOM_SCALE="72"
+#! >
+#! <DATASETS>
+#! <DATASET
+#!   IS_SOURCE="true"
+#!   ROLE="READER"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#!   DATASET=""
+#!   KEYWORD="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1"
+#!   MULTI_GEOM_ALLOWED="false"
+#!   ATTR_MAX_LENGTH="0"
+#!   ATTR_CASE="ANY"
+#!   FEATURE_TYPE_CASE=""
+#!   FEATURE_TYPE_LENGTH="0"
+#!   FEATURE_TYPE_INVALID_CHARS=""
+#!   ALLOWED_FEAT_TYPES=""
+#!   WRITE_DEFS="true"
+#!   DEFLINE_TEMPLATE="arcgisfeatureservice_type {FME_GEN_GEOMETRY}"
+#!   DEFLINE_ATTRS="true"
+#!   EXPOSABLE_ATTRS="arcgisfeatureservice_feature_type_alias String arcgisfeatureservice_feature_url String arcgisfeatureservice_globalid GlobalID(38) arcgisfeatureservice_objectid Integer arcgisfeatureservice_subtype_code Integer arcgisfeatureservice_subtype_name String arcgisfeatureservice_type String fme_basename String(50) fme_color String(50) fme_dataset String(50) fme_db_operation String fme_feature_type String(50) fme_fill_color String(50) fme_geometry String(50) fme_primary_axis Double fme_rotation Double fme_secondary_axis Double fme_start_angle Double fme_sweep_angle Double fme_text_size Double fme_text_string String(50) fme_type String(50) multi_reader_full_id Integer multi_reader_id Integer multi_reader_keyword String(50) multi_reader_type String(50)"
+#!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP arcgis_reader_group arcgis_sql_where_clause%arcgis_input_geometry%arcgis_input_geometry_type%arcgis_spatial_relationship%arcgis_distance%arcgis_units%arcgis_true_curve Layer&quot; &quot;&quot; &quot;GUI OPTIONAL STRING_ENCODED arcgis_sql_where_clause WHERE Clause&quot; &quot;&quot; &quot;GUI OPTIONAL STRING_ENCODED arcgis_input_geometry Input Geometry&quot; &quot;&quot; &quot;GUI LOOKUP_CHOICE_ENCODED arcgis_input_geometry_type Envelope,esriGeometryEnvelope%Point,esriGeometryPoint%Polyline,esriGeometryPolyline%Polygon,esriGeometryPolygon%Multipoint,esriGeometryMultipoint Input Geometry Type&quot; esriGeometryEnvelope &quot;GUI LOOKUP_CHOICE_ENCODED arcgis_spatial_relationship Intersects,esriSpatialRelIntersects%Contains,esriSpatialRelContains%Crosses,esriSpatialRelCrosses%Envelope&lt;space&gt;Intersects,esriSpatialRelEnvelopeIntersects%Index&lt;space&gt;Intersects,esriSpatialRelIndexIntersects%Overlaps,esriSpatialRelOverlaps%Touches,esriSpatialRelTouches%Within,esriSpatialRelWithin Spatial Relationship&quot; esriSpatialRelIntersects &quot;GUI OPTIONAL FLOAT arcgis_distance Distance&quot; &quot;&quot; &quot;GUI LOOKUP_CHOICE_ENCODED arcgis_units Meters,esriSRUnit_Meter%Miles,esriSRUnit_StatuteMile%Feet,esriSRUnit_Foot%Kilometers,esriSRUnit_Kilometer%Nautical&lt;space&gt;Miles,esriSRUnit_NauticalMile%US&lt;space&gt;Nautical&lt;space&gt;Miles,esriSRUnit_USNauticalMile Units&quot; esriSRUnit_Meter &quot;GUI LOOKUP_CHOICE arcgis_true_curve Yes,YES%No,NO Use True Curves&quot; YES "
+#!   ATTR_INDEX_TYPES="Unique NotNull UniqueNotNull"
+#!   ATTR_NAME_INVALID_CHARS=""
+#!   SUPPORTS_FEATURE_TYPE_FANOUT="true"
+#!   ENABLED="true"
+#!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
+#!   DATASET_TYPE="NONE"
+#!   FTTR_TYPE="LISTBOX_ENCODED"
+#!   GENERATE_FME_BUILD_NUM="25815"
+#!   COORDSYS="EPSG:26920"
+#!   FEATURE_TYPES=""
+#!   MAX_FEATURES=""
+#!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   MIN_FEATURES=""
+#!   START_FEATURE=""
+#! >
+#! <METAFILE_PARAMETER
+#!   NAME="ADVANCED_PARMS"
+#!   VALUE="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURES_PER_REQUEST SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_FEATURES_PER_REQUEST SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERIFY_HTTPS SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_VERIFY_HTTPS SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_USE_GLOBAL_ID SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_PRESERVE_GLOBALID SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_ASYNC_WRITE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_ASYNC_WRITE_WAIT SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_ASYNC_WRITE_TIMEOUT SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_ALWAYS_CREATE_FEATURE_TYPES SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_OUT_APPEND_FORMAT"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="ATTRIBUTE_READING"
+#!   VALUE="DEFLINE"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Layer1"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_NAME"
+#!   VALUE="Layer"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_AUTHENTICATION"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="NETWORK_PROXY"
+#!   VALUE="NO"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_DESCRIPTION_PARAMETER"
+#!   VALUE="URL_TYPE"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="READER_DATASET_HINT"
+#!   VALUE="Specify the dataset"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_DESCRIPTION_PARAMETER"
+#!   VALUE="URL_TYPE"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_DATASET_HINT"
+#!   VALUE="Specify the dataset"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="WRITER_SPATIAL_DEFINITION_TABLE"
+#!   VALUE="YES"
+#! />
+#! </DATASET>
+#! </DATASETS>
+#! <DATA_TYPES>
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Integer"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Integer"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="BigInteger"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="BigInteger"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="SmallInteger"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Integer"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="SmallInteger"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Single"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Double"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(width)"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(width)"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(254)"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(254)"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(254)"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String(254)"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="String"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="OID"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="OID(width)"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Double"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="SmallInteger"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="GUID(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="GlobalID(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Date"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="Date"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="DateOnly"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="DateOnly"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="TimeOnly"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="TimeOnly"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="TimestampOffset"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! </DATA_TYPES>
+#! <GEOM_TYPES>
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_point"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_multipoint"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_point"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_polyline"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_polygon"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_polygon"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_polygon"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_polygon"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_polyline"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_voxel_grid"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="arcgisfeatureservice_none"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE"
+#! />
+#! </GEOM_TYPES>
+#! <FEATURE_TYPES>
+#! <FEATURE_TYPE
+#!   IS_SOURCE="true"
+#!   NODE_NAME="Sites for First Location"
+#!   FEATURE_TYPE_NAME=""
+#!   FEATURE_TYPE_NAME_QUALIFIER=""
+#!   IS_EDITABLE="false"
+#!   IDENTIFIER="2"
+#!   POSITION="-557.046875 -230"
+#!   BOUNDING_RECT="-557.046875 -230 657.046875 65"
+#!   ORDER="500000000000000"
+#!   COLLAPSED="true"
+#!   KEYWORD="SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   FEAT_GEOMTYPE="arcgisfeatureservice_point"
+#!   HIDDEN_USER_ATTRS="BUFF_DIST"
+#!   READ_SELECT_ATTRS="true"
+#!   MERGE_FILTER="*"
+#!   MERGE_FILTER_TYPE="FILTER_TYPE_GLOB"
+#!   MERGE_FILTER_CASE_SENSITIVE="true"
+#!   DYNAMIC_SCHEMA="false"
+#! >
+#!     <FEAT_GEOMETRY NAME="" TYPE="arcgisfeatureservice_point" SPATIAL_TYPE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="OBJECTID" ATTR_TYPE="OID" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="UniqNum" ATTR_TYPE="SmallInteger" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="Description" ATTR_TYPE="String(50)" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <FEAT_ATTRIBUTE ATTR_NAME="BUFF_DIST" ATTR_TYPE="SmallInteger" ATTR_HAS_PORT="true" ATTR_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_distance" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_input_geometry" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_input_geometry_type" PARM_VALUE="esriGeometryEnvelope"/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_reader_group" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_spatial_relationship" PARM_VALUE="esriSpatialRelIntersects"/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_sql_where_clause" PARM_VALUE=""/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_true_curve" PARM_VALUE="YES"/>
+#!     <DEFLINE_PARM PARM_NAME="arcgis_units" PARM_VALUE="esriSRUnit_Meter"/>
+#! </FEATURE_TYPE>
+#! </FEATURE_TYPES>
+#! <FMESERVER>
+#! <DEPENDENCIES>
+#! <PACKAGES>
+#! <PACKAGE
+#!   NAME="safe.esri-agol"
+#!   VERSION="3.20.1"
+#! />
+#! </PACKAGES>
+#! </DEPENDENCIES>
+#! <CONNECTIONS>
+#! <CONNECTION
+#!   NAME="luisf Esri ArcGIS Generate Token (safe.esri-agol)"
+#!   TYPE="WEB"
+#!   FAMILY="safe.esri-agol.Esri ArcGIS Generate Token"
+#!   USAGE="INTERNAL"
+#! />
+#! </CONNECTIONS>
+#! </FMESERVER>
+#! <GLOBAL_PARAMETERS>
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI FLOAT Xmin XminData"
+#!   DEFAULT_VALUE="463162.15165937506"
+#!   IS_STAND_ALONE="true"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI FLOAT Xmax XmaxData"
+#!   DEFAULT_VALUE="486965.54025851935"
+#!   IS_STAND_ALONE="true"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI FLOAT Ymax YmaxData"
+#!   DEFAULT_VALUE="4974930.476262746"
+#!   IS_STAND_ALONE="true"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI FLOAT Ymin YminData"
+#!   DEFAULT_VALUE="4960788.011319084"
+#!   IS_STAND_ALONE="true"
+#! />
+#! </GLOBAL_PARAMETERS>
+#! <USER_PARAMETERS
+#!   FORM="eyJwYXJhbWV0ZXJzIjpbeyJuYW1lIjoiWG1pbiIsInByb21wdCI6IlhtaW5EYXRhIiwidmFsdWVUeXBlIjoic3RyaW5nIiwiZGVmYXVsdFZhbHVlIjoiNDYzMTYyLjE1MTY1OTM3NTA2IiwidHlwZSI6Im51bWJlciJ9LHsibmFtZSI6IlhtYXgiLCJwcm9tcHQiOiJYbWF4RGF0YSIsInZhbHVlVHlwZSI6InN0cmluZyIsImRlZmF1bHRWYWx1ZSI6IjQ4Njk2NS41NDAyNTg1MTkzNSIsInR5cGUiOiJudW1iZXIifSx7Im5hbWUiOiJZbWF4IiwicHJvbXB0IjoiWW1heERhdGEiLCJ2YWx1ZVR5cGUiOiJzdHJpbmciLCJkZWZhdWx0VmFsdWUiOiI0OTc0OTMwLjQ3NjI2Mjc0NiIsInR5cGUiOiJudW1iZXIifSx7Im5hbWUiOiJZbWluIiwicHJvbXB0IjoiWW1pbkRhdGEiLCJ2YWx1ZVR5cGUiOiJzdHJpbmciLCJkZWZhdWx0VmFsdWUiOiI0OTYwNzg4LjAxMTMxOTA4NCIsInR5cGUiOiJudW1iZXIifV19"
+#! >
+#! <PARAMETER_INFO>
+#!     <INFO NAME="Xmin" 
+#!   DEFAULT_VALUE="463162.15165937506"
+#!   SCOPE="STAND_ALONE"
+#!   GENERATED_GUI_LINE="true"
+#!   GUI_LINE="GUI FLOAT Xmin XminData"
+#! />
+#!     <INFO NAME="Xmax" 
+#!   DEFAULT_VALUE="486965.54025851935"
+#!   SCOPE="STAND_ALONE"
+#!   GENERATED_GUI_LINE="true"
+#!   GUI_LINE="GUI FLOAT Xmax XmaxData"
+#! />
+#!     <INFO NAME="Ymax" 
+#!   DEFAULT_VALUE="4974930.476262746"
+#!   SCOPE="STAND_ALONE"
+#!   GENERATED_GUI_LINE="true"
+#!   GUI_LINE="GUI FLOAT Ymax YmaxData"
+#! />
+#!     <INFO NAME="Ymin" 
+#!   DEFAULT_VALUE="4960788.011319084"
+#!   SCOPE="STAND_ALONE"
+#!   GENERATED_GUI_LINE="true"
+#!   GUI_LINE="GUI FLOAT Ymin YminData"
+#! />
+#! </PARAMETER_INFO>
+#! </USER_PARAMETERS>
+#! <COMMENTS>
+#! <COMMENT
+#!   IDENTIFIER="9"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;hr { height: 1px; border-width: 0; }&#10;li.unchecked::marker { content: &quot;\2610&quot;; }&#10;li.checked::marker { content: &quot;\2612&quot;; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Segoe UI&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2000 meters&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="1260.2556581121364 -60.276680544583257"
+#!   TOP_LEFT="1260.2556581121364 -60.276680544583257"
+#!   BOTTOM_RIGHT="1691.216498970545 -61.276680544583257"
+#!   BOUNDING_RECT="1260.2556581121364 -60.276680544583257 430.96084085840857 1"
+#!   ORDER="500000000000007"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="true"
+#!   UUID="{35d2f68a-be04-40f0-b232-89f6380105f6}"
+#!   COLOUR="1,1,0,0.90196078431372551"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="5"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="10"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;hr { height: 1px; border-width: 0; }&#10;li.unchecked::marker { content: &quot;\2610&quot;; }&#10;li.checked::marker { content: &quot;\2612&quot;; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Segoe UI&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Does not reproject&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="365.62865628656289 -30.625906259062617"
+#!   TOP_LEFT="365.62865628656289 -30.625906259062617"
+#!   BOTTOM_RIGHT="888.92440486904877 -31.625906259062617"
+#!   BOUNDING_RECT="365.62865628656289 -30.625906259062617 523.29574858248588 1"
+#!   ORDER="500000000000008"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="false"
+#!   UUID="{d2b32682-b1d4-46e2-ab55-50e3b18a6ce3}"
+#!   COLOUR="0.59999999999999998,0.47058823529411764,0,0.90196078431372551"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="3"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="11"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;hr { height: 1px; border-width: 0; }&#10;li.unchecked::marker { content: &quot;\2610&quot;; }&#10;li.checked::marker { content: &quot;\2612&quot;; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Segoe UI&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;AOI for Workspace B layers&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="2033.1800540227623 -98.43723437234371"
+#!   TOP_LEFT="2033.1800540227623 -98.43723437234371"
+#!   BOTTOM_RIGHT="2575.2259901071229 -99.43723437234371"
+#!   BOUNDING_RECT="2033.1800540227623 -98.43723437234371 542.04593608436085 1"
+#!   ORDER="500000000000009"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="true"
+#!   UUID="{0ffec35d-16e2-454b-817c-8074ff9e191c}"
+#!   COLOUR="0,0.66666666666666663,0,0.90196078431372551"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="7"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="12"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;hr { height: 1px; border-width: 0; }&#10;li.unchecked::marker { content: &quot;\2610&quot;; }&#10;li.checked::marker { content: &quot;\2612&quot;; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Segoe UI&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:700;&quot;&gt;Assignment 03 Workspace A&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:700;&quot;&gt;Name: Luis Maldonado&lt;/span&gt;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:700;&quot;&gt;Date: March 8th, 2026&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="-557.046875 -677.09010423437576"
+#!   TOP_LEFT="-557.046875 -677.09010423437576"
+#!   BOTTOM_RIGHT="425.33549569870695 -975.84279176125096"
+#!   BOUNDING_RECT="-557.046875 -677.09010423437576 982.38237069870695 298.75268752687526"
+#!   ORDER="500000000000010"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="true"
+#!   UUID="{8371a924-714e-42f1-be7f-eb3225e5f180}"
+#!   COLOUR="0,0,1,0.90196078431372551"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="0"
+#! />
+#! </COMMENTS>
+#! <CONSTANTS>
+#! </CONSTANTS>
+#! <BOOKMARKS>
+#! </BOOKMARKS>
+#! <TRANSFORMERS>
+#! <TRANSFORMER
+#!   IDENTIFIER="3"
+#!   TYPE="CoordinateSystemSetter"
+#!   VERSION="0"
+#!   POSITION="365.62865628656289 -165.62665626656269"
+#!   BOUNDING_RECT="365.62865628656289 -165.62665626656269 523.328125 65"
+#!   ORDER="500000000000001"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="25815"
+#! >
+#!     <OUTPUT_FEAT NAME="OUTPUT"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="OBJECTID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="UniqNum" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Description" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="COORDSYS" PARM_VALUE="EPSG:2961"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CoordinateSystemSetter"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="5"
+#!   TYPE="Bufferer"
+#!   VERSION="17"
+#!   POSITION="1260.2556581121364 -195.27743055208333"
+#!   BOUNDING_RECT="1260.2556581121364 -195.27743055208333 431 71"
+#!   ORDER="500000000000002"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="25815"
+#! >
+#!     <OUTPUT_FEAT NAME="BUFFERED"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="OBJECTID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="UniqNum" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Description" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="OBJECTID" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="UniqNum" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Description" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_PARM PARM_NAME="ANGLE" PARM_VALUE="22.5"/>
+#!     <XFORM_PARM PARM_NAME="AREA_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="CAP_STYLE_LOOKUP" PARM_VALUE="CAP_ARC"/>
+#!     <XFORM_PARM PARM_NAME="CORNER_STYLE_LOOKUP" PARM_VALUE="JOIN_ARC"/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY_MODE" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE_LU" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MITER_LIMIT" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="AREA"/>
+#!     <XFORM_PARM PARM_NAME="OFFSET" PARM_VALUE="2000"/>
+#!     <XFORM_PARM PARM_NAME="OFFSET_UNITS" PARM_VALUE="METERS"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PRECISION" PARM_VALUE="APPROX"/>
+#!     <XFORM_PARM PARM_NAME="SOLID_GROUP" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SPHERE_DIVISIONS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="SiteBuffer"/>
+#!     <XFORM_PARM PARM_NAME="CAP_STYLE" PARM_IS_LOOKUP="true" PARM_VALUE="Arc"/>
+#!     <XFORM_PARM PARM_NAME="CORNER_STYLE" PARM_IS_LOOKUP="true" PARM_VALUE="Arc"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_IS_LOOKUP="true" PARM_VALUE="&lt;Unused&gt;"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="7"
+#!   TYPE="BoundingBoxAccumulator"
+#!   VERSION="6"
+#!   POSITION="2033.1800540227623 -233.43798437984378"
+#!   BOUNDING_RECT="2033.1800540227623 -233.43798437984378 542.09375 65"
+#!   ORDER="500000000000006"
+#!   PARMS_EDITED="true"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="25815"
+#! >
+#!     <OUTPUT_FEAT NAME="BOUNDING_BOX"/>
+#!     <FEAT_COLLAPSED COLLAPSED="0"/>
+#!     <XFORM_ATTR ATTR_NAME="OBJECTID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="UniqNum" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="Description" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#!     <FEAT_COLLAPSED COLLAPSED="1"/>
+#!     <XFORM_ATTR ATTR_NAME="OBJECTID" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="UniqNum" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="Description" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_PARM PARM_NAME="ACCUM_ATTRS" PARM_VALUE="One"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_PROCESSING_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE_LU" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="BoundingBoxAccumulator"/>
+#!     <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_IS_LOOKUP="true" PARM_VALUE="Use Attributes From One Feature"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS_TO_INCLUDE_MODE" PARM_IS_LOOKUP="true" PARM_VALUE="&lt;Unused&gt;"/>
+#! </TRANSFORMER>
+#! </TRANSFORMERS>
+#! <FEAT_LINKS>
+#! <FEAT_LINK
+#!   IDENTIFIER="4"
+#!   SOURCE_NODE="2"
+#!   TARGET_NODE="3"
+#!   SOURCE_PORT_DESC="-1"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.95686274509803926,0.95294117647058818,0.92941176470588238,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="6"
+#!   SOURCE_NODE="3"
+#!   TARGET_NODE="5"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.95686274509803926,0.95294117647058818,0.92941176470588238,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#!   IDENTIFIER="8"
+#!   SOURCE_NODE="5"
+#!   TARGET_NODE="7"
+#!   SOURCE_PORT_DESC="fo 0 BUFFERED"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="0"
+#!   HIDDEN="false"
+#!   COLOUR="0.95686274509803926,0.95294117647058818,0.92941176470588238,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! </FEAT_LINKS>
+#! <BREAKPOINTS>
+#! </BREAKPOINTS>
+#! <ATTR_LINKS>
+#! </ATTR_LINKS>
+#! <SUBDOCUMENTS>
+#! </SUBDOCUMENTS>
+#! <LOOKUP_TABLES>
+#! </LOOKUP_TABLES>
+#! </WORKSPACE>
+
+FME_PYTHON_VERSION 313
+ARCGIS_COMPATIBILITY ARCGIS_AUTO
+GUI IGNORE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FME_CONNECTION_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_URL_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_SITE_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_SERVER_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SITE_SOURCE_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FOLDER_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_GROUP_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_WITH_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CONSTRAINTS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ATTRIBUTE_FORMAT_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_GLOBALID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_DATETIME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_BRANCH_VERSIONING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSION_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSIONED_READ_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SPATIAL_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_SEARCH_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CLIP_TO_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ARCGISFEATURESERVICE_ADV_PARM_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURES_PER_REQUEST_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERIFY_HTTPS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,EXPOSE_ATTRS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,_IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1
+# ============================================================================
+DEFAULT_MACRO Xmin 463162.15165937506
+
+DEFAULT_MACRO Xmax 486965.54025851935
+
+DEFAULT_MACRO Ymax 4974930.476262746
+
+DEFAULT_MACRO Ymin 4960788.011319084
+
+# ============================================================================
+INCLUDE [ if {{$(Xmin$encode)} == {}} { puts_real {Parameter 'Xmin' must be given a value.}; exit 1; }; ]
+INCLUDE [ if {{$(Xmax$encode)} == {}} { puts_real {Parameter 'Xmax' must be given a value.}; exit 1; }; ]
+INCLUDE [ if {{$(Ymax$encode)} == {}} { puts_real {Parameter 'Ymax' must be given a value.}; exit 1; }; ]
+INCLUDE [ if {{$(Ymin$encode)} == {}} { puts_real {Parameter 'Ymin' must be given a value.}; exit 1; }; ]
+#! START_HEADER
+#! START_WB_HEADER
+READER_TYPE MULTI_READER
+MULTI_READER_TYPE{0} SAFE.ESRI-AGOL.ARCGISFEATURESERVICE
+MULTI_READER_KEYWORD{0} SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1
+MULTI_READER_GEN_DIRECTIVES{0} SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_EXPOSE_FORMAT_ATTRS,,EXPOSE_ATTRS_GROUP,FME_DISCLOSURE_OPEN,STANDALONE_AUTH_NC,<lt>Unused<gt>,SPATIAL_GROUP,,ENTERPRISE_SITE_URL,<lt>Unused<gt>,STANDALONE_AUTH_TYPE,<lt>Unused<gt>,COORDINATE_SYSTEM,EPSG:26920,SEARCH_ENVELOPE_MAXY,0,FEATURE_SERVICE_WITH_ID,Sites<lt>space<gt>for<lt>space<gt>First<lt>space<gt>Location<lt>openparen<gt>168004fa5e4c4445ae2c64959acfaa98<lt>closeparen<gt>,GROUP_ID,9f5c4813e5bb47278575266376467015,TABLELIST,<quote>Sites<space>for<space>First<space>Location<quote>,ARCGISFEATURESERVICE_ADV_PARM_GROUP,FME_DISCLOSURE_OPEN,USE_SEARCH_ENVELOPE,NO,AGOL_AUTH_GROUP,FME_DISCLOSURE_OPEN,SEARCH_ENVELOPE_MINY,0,USE_BRANCH_VERSIONING,<lt>Unused<gt>,ENTERPRISE_AUTH_NC,<lt>Unused<gt>,FORMAT_GLOBALID,NO_FORMAT,VERIFY_HTTPS,WEB_CONN,SEARCH_ENVELOPE_MAXX,0,FEATURES_PER_REQUEST,1000,_MERGE_SCHEMAS,YES,STANDALONE_FEATURE_SERVICE_GROUP,<lt>Unused<gt>,URL_TYPE,AGOL,ENTERPRISE_AUTH_GROUP,<lt>Unused<gt>,AGOL_AUTH_NC,luisf<lt>space<gt>Esri<lt>space<gt>ArcGIS<lt>space<gt>Generate<lt>space<gt>Token<lt>space<gt><lt>openparen<gt>safe.esri-agol<lt>closeparen<gt>,VERSION_NAME,<lt>Unused<gt>,FORMAT_DATETIME,FME_FORMAT,VERSIONED_READ_MODE,<lt>Unused<gt>,SEARCH_ENVELOPE_COORDINATE_SYSTEM,,ALIAS_MODE,NONE,CLIP_TO_ENVELOPE,NO,SITE_SOURCE_TYPE,GROUP,STANDALONE_SERVER_URL,<lt>Unused<gt>,SELECT_FEATURE_SERVICE_GROUP,FME_DISCLOSURE_OPEN,STANDALONE_AUTH_GROUP,<lt>Unused<gt>,SEARCH_ENVELOPE_MINX,0,QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS,Yes,CREATE_FEATURE_TABLES_FROM_DATA,Yes,FOLDER_NAME,<lt>Unused<gt>,_CS_SPATIAL_GROUP,,ENTERPRISE_AUTH_TYPE,<lt>Unused<gt>,RESOLVE_DOMAINS,NO
+WRITER_TYPE MULTI_WRITER
+WRITER_KEYWORD MULTI_DEST
+MULTI_DEST_DATASET null
+#! END_WB_HEADER
+#! START_WB_HEADER
+MACRO WB_KEYWORD "SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1"
+#! END_WB_HEADER
+#! START_SOURCE_HEADER SAFE.ESRI-AGOL.ARCGISFEATURESERVICE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+DEFAULT_MACRO SourceDataset
+INCLUDE [ if {{$(SourceDataset)} != ""} {                        \
+ puts {DEFAULT_MACRO SourceDataset_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 $(SourceDataset)}     \
+ } ]
+#! END_WB_HEADER
+#! START_SOURCE_HEADER SAFE.ESRI-AGOL.ARCGISFEATURESERVICE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1
+DEFAULT_MACRO SourceDataset_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 NULL
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Yes
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_QUERY_FEATURE_TYPES_FOR_MERGE_FILTERS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CREATE_FEATURE_TABLES_FROM_DATA_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Yes
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_CREATE_FEATURE_TABLES_FROM_DATA "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CREATE_FEATURE_TABLES_FROM_DATA_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FME_CONNECTION_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FME_CONNECTION_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_URL_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Authentication
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_URL_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 AGOL
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_URL_TYPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_URL_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI ACTIVECHOICE_LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_URL_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Standalone<space>Server,STANDALONE,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_PUBLISH_GROUP++STANDALONE_AUTH_GROUP+FME_DISCLOSURE_OPEN,++SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1+FME_DISCLOSURE_OPEN%ArcGIS<space>Online,AGOL,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_BRANCH_VERSIONING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,++SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1+FME_DISCLOSURE_OPEN,++SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1+FME_DISCLOSURE_OPEN%Enterprise,ENTERPRISE,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1,++SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1+FME_DISCLOSURE_OPEN,++SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1+FME_DISCLOSURE_OPEN Source Type
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Standalone Server
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_STANDALONE_AUTH_TYPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI ACTIVECHOICE_LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 None,NONE,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%Web<space>Connection,WEB_CONN%Kerberos,KERBEROS,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Authentication Type
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_STANDALONE_AUTH_NC "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI NAMED_CONNECTION_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 "safe.esri-agol.Esri ArcGIS Provide Token"%"safe.esri-agol.Esri ArcGIS Login"%"safe.esri-agol.Esri ArcGIS Generate Token" Web Connection
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 ArcGIS Online
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 luisf<space>Esri<space>ArcGIS<space>Generate<space>Token<space><openparen>safe.esri-agol<closeparen>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_AGOL_AUTH_NC "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI NAMED_CONNECTION_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_AGOL_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 "safe.esri-agol.Esri ArcGIS Online OAuth"%"safe.esri-agol.Esri ArcGIS Generate Token" Web Connection:
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_SITE_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Enterprise
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_SITE_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_ENTERPRISE_SITE_URL "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_SITE_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI URL SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_SITE_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 https%http Site URL
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_ENTERPRISE_AUTH_TYPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI ACTIVECHOICE_LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Web<space>Connection,WEB_CONN%Kerberos,KERBEROS,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Authentication Type
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_ENTERPRISE_AUTH_NC "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI NAMED_CONNECTION_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ENTERPRISE_AUTH_NC_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 "safe.esri-agol.Esri ArcGIS Enterprise OAuth (Template)"%"safe.esri-agol.Esri ArcGIS Generate Token"%"safe.esri-agol.Esri ArcGIS Provide Token"%"safe.esri-agol.Esri ArcGIS Login" Web Connection:
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Feature Service
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_SERVER_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Standalone Server
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_SERVER_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_STANDALONE_SERVER_URL "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_SERVER_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI URL SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_STANDALONE_SERVER_URL_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 https%http URL
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SELECT_FEATURE_SERVICE_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SITE_SOURCE_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FOLDER_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_GROUP_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_WITH_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Select
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SITE_SOURCE_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 GROUP
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_SITE_SOURCE_TYPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SITE_SOURCE_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI ACTIVECHOICE_LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SITE_SOURCE_TYPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 User<space>Content,USER,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_GROUP_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%Group,GROUP,SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FOLDER_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Item Source
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FOLDER_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_FOLDER_NAME "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FOLDER_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI WEB_SELECT_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FOLDER_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 DEPENDENT_PARAMETERS:URL_TYPE:AGOL_AUTH_GROUP:AGOL_AUTH_NC:ENTERPRISE_AUTH_GROUP:ENTERPRISE_SITE_URL:ENTERPRISE_AUTH_TYPE:ENTERPRISE_AUTH_NC:VERIFY_HTTPS%SHOWID%PROMPTFORTITLE%NO_SEARCH%SINGLEDEPTH%ITEM_ICON:%MODULE:fmepy_esri_agol.fs_format.fs_selector.UserFolderScriptedSelection Folder
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_GROUP_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 9f5c4813e5bb47278575266376467015
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_GROUP_ID "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_GROUP_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI WEB_SELECT_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_GROUP_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 DEPENDENT_PARAMETERS:URL_TYPE:AGOL_AUTH_GROUP:AGOL_AUTH_NC:ENTERPRISE_AUTH_GROUP:ENTERPRISE_SITE_URL:ENTERPRISE_AUTH_TYPE:ENTERPRISE_AUTH_NC:VERIFY_HTTPS%SHOWID%PROMPTFORTITLE%SINGLEDEPTH%NO_SEARCH%ITEM_ICON:%MODULE:fmepy_esri_agol.fs_format.fs_selector.GroupScriptedSelection Group
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_WITH_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Sites<space>for<space>First<space>Location<openparen>168004fa5e4c4445ae2c64959acfaa98<closeparen>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_FEATURE_SERVICE_WITH_ID "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_WITH_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI WEB_SELECT_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURE_SERVICE_WITH_ID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 DEPENDENT_PARAMETERS:URL_TYPE:AGOL_AUTH_GROUP:AGOL_AUTH_NC:ENTERPRISE_AUTH_GROUP:ENTERPRISE_SITE_URL:ENTERPRISE_AUTH_TYPE:ENTERPRISE_AUTH_NC:SELECT_FEATURE_SERVICE_GROUP:SITE_SOURCE_TYPE:FOLDER_NAME:GROUP_ID:VERIFY_HTTPS%SHOWID%PROMPTFORTITLE%NO_SEARCH%ITEM_ICON:%MODULE:fmepy_esri_agol.fs_format.fs_selector.FeatureServiceScriptedSelection Feature Service
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CONSTRAINTS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CONSTRAINTS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_TABLELIST%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_RESOLVE_DOMAINS Constraints
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ATTRIBUTE_FORMAT_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ATTRIBUTE_FORMAT_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_GLOBALID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_DATETIME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Attribute Format
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_GLOBALID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 NO_FORMAT
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_FORMAT_GLOBALID "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_GLOBALID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI LOOKUP_CHOICE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_GLOBALID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Use<space>Server<space>Value,NO_FORMAT%GUID<space>Format<space><openparen><opencurly>GUID<closecurly><closeparen>,UPPERCASE_GUID Global ID Format
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_DATETIME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 FME_FORMAT
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_FORMAT_DATETIME "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_DATETIME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI LOOKUP_CHOICE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_DATETIME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Unix<space>time<space>in<space>milliseconds,EPOCH_MILLIS%FME<space>Default,FME_FORMAT Date Format
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_BRANCH_VERSIONING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_USE_BRANCH_VERSIONING "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_BRANCH_VERSIONING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI ACTIVEDISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_BRANCH_VERSIONING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSION_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSIONED_READ_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Branch Versioning
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSION_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_VERSION_NAME "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSION_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI WEB_SELECT_ENCODED SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSION_NAME_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 DEPENDENT_PARAMETERS:URL_TYPE:STANDALONE_AUTH_GROUP:STANDALONE_AUTH_TYPE:STANDALONE_AUTH_NC:AGOL_AUTH_GROUP:AGOL_AUTH_NC:ENTERPRISE_AUTH_GROUP:ENTERPRISE_SITE_URL:ENTERPRISE_AUTH_TYPE:ENTERPRISE_AUTH_NC:FEATURE_SERVICE_GROUP:STANDALONE_FEATURE_SERVICE_GROUP:STANDALONE_SERVER_URL:SELECT_FEATURE_SERVICE_GROUP:SITE_SOURCE_TYPE:FOLDER_NAME:GROUP_ID:FEATURE_SERVICE_WITH_ID:VERIFY_HTTPS%SHOWID%PROMPTFORTITLE%NO_SEARCH%ITEM_ICON:%MODULE:fmepy_esri_agol.branch_versioning.version_selector.BranchVersionScriptedSelection Version
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSIONED_READ_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_VERSIONED_READ_MODE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSIONED_READ_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI LOOKUP_CHOICE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERSIONED_READ_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Features,FEATURES%Differences,DIFFERENCES Data to Read:
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_EXPOSE_ATTRS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 FME_DISCLOSURE_OPEN
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_EXPOSE_ATTRS_GROUP "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_EXPOSE_ATTRS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 NONE
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_ALIAS_MODE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SPATIAL_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SPATIAL_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_COORDINATE_SYSTEM%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_SEARCH_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Spatial
+# Include this file in source setting section to add native search envelope processing
+# Zero as a default means we don't do any search -- this makes workbench happier
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_SEARCH_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 NO
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_USE_SEARCH_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_SEARCH_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI ACTIVEDISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_USE_SEARCH_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CLIP_TO_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_METHOD%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_METHOD_FILTER%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ORDER%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_FEATURE%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_DUMMY_SEARCH_ENVELOPE_PARAMETER Use Search Envelope
+# ===========================================================================
+GUI LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>,0 
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 0
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_SEARCH_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI OPTIONAL FLOAT SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Minimum X:
+# ===========================================================================
+GUI LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>,0 
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 0
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_SEARCH_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI OPTIONAL FLOAT SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MINY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Minimum Y:
+# ===========================================================================
+GUI LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>,0 
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 0
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_SEARCH_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI OPTIONAL FLOAT SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXX_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Maximum X:
+# ===========================================================================
+GUI LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>,0 
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 0
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_SEARCH_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI OPTIONAL FLOAT SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_MAXY_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Maximum Y:
+# ===========================================================================
+GUI LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>, 
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_SEARCH_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI OPTIONAL COORDSYS SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Search Envelope Coordinate System:
+# ===========================================================================
+GUI LOOKUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CLIP_TO_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 <Unused>,NO 
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CLIP_TO_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 NO
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_CLIP_TO_ENVELOPE "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CLIP_TO_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI OPTIONAL CHECKBOX SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_CLIP_TO_ENVELOPE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 YES%NO Clip to Search Envelope
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ARCGISFEATURESERVICE_ADV_PARM_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 
+GUI OPTIONAL DISCLOSUREGROUP SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ARCGISFEATURESERVICE_ADV_PARM_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURES_PER_REQUEST_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERIFY_HTTPS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1%SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FORMAT_GLOBALID_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Advanced
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURES_PER_REQUEST_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 1000
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_FEATURES_PER_REQUEST "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURES_PER_REQUEST_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI INTEGER SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_FEATURES_PER_REQUEST_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Features Per Request:
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERIFY_HTTPS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 WEB_CONN
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_VERIFY_HTTPS "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERIFY_HTTPS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+GUI LOOKUP_CHOICE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_VERIFY_HTTPS_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Use<space>Web<space>Connection<space>Value,WEB_CONN%Yes,YES%No,NO Verify HTTPS Certificates:
+# ============================================================================
+DEFAULT_MACRO SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ATTRIBUTE_READING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 DEFLINE
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_ATTRIBUTE_READING "$(SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_IN_ATTRIBUTE_READING_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+# ============================================================================
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_GENERATE_FME_BUILD_NUM 25815
+DEFAULT_MACRO EXPOSE_ATTRS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 FME_DISCLOSURE_OPEN
+GUI OPTIONAL DISCLOSUREGROUP EXPOSE_ATTRS_GROUP_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 _IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Schema Attributes
+DEFAULT_MACRO _IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 NONE
+GUI LOOKUP_CHOICE _IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 None,NONE%Expose<space>Aliases<space>as<space>Metadata<space>Attributes<space><openparen><lt>name<gt>_alias<closeparen>,ON_DATA_FEATURES Alias Mode:
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_ALIAS_MODE "$(_IN_ALIAS_MODE_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_DATASET "$(SourceDataset_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)"
+#! END_SOURCE_HEADER
+#! START_WB_HEADER
+#! END_WB_HEADER
+#! END_HEADER
+
+LOG_FILENAME "$(FME_MF_DIR)$(WORKSPACE_NAME).log"
+LOG_APPEND NO
+LOG_MAX_FEATURES 200
+LOG_MAX_RECORDED_FEATURES 200
+FME_REPROJECTION_ENGINE FME
+FME_IMPLICIT_CSMAP_REPROJECTION_MODE Auto
+FME_GEOMETRY_HANDLING Enhanced
+FME_STROKE_MAX_DEVIATION 0
+FME_NAMES_ENCODING UTF-8
+FME_BULK_MODE_THRESHOLD 2000
+LAST_SAVE_BUILD "FME 2025.2.1.0 (20251202 - Build 25815 - WIN64)"
+DEFAULT_MACRO DATASET_KEYWORD_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1
+# -------------------------------------------------------------------------
+
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_READER_META_ATTRIBUTES fme_feature_type
+
+# -------------------------------------------------------------------------
+
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_COORDINATE_SYSTEM EPSG:26920
+MULTI_READER_CONTINUE_ON_READER_FAILURE No
+
+# -------------------------------------------------------------------------
+
+MACRO FME_VIEWER_APP fmedatainspector
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   MULTI_READER_KEYWORD $(DATASET_KEYWORD_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1)   INPUT FEATURE_TYPE *    ROUTE SAFE.ESRI-AGOL.ARCGISFEATURESERVICE "SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1::Sites for First Location" multi_reader_keyword,$(DATASET_KEYWORD_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1) TO FME_GENERIC "::Sites for First Location" ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
+SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1_MERGE_DEF "SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1::Sites for First Location" EXACT Sites<space>for<space>First<space>Location DEFLINE arcgisfeatureservice_type,arcgisfeatureservice_point,arcgis_input_geometry,,arcgis_true_curve,YES,arcgis_spatial_relationship,esriSpatialRelIntersects,arcgis_distance,,arcgis_input_geometry_type,esriGeometryEnvelope,arcgis_sql_where_clause,,arcgis_units,esriSRUnit_Meter,fme_attribute_reading,defined,OBJECTID,OID,UniqNum,SmallInteger,Description,String<openparen>50<closeparen>
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Sites for First Location_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1 Splitter"    INPUT FEATURE_TYPE "Sites for First Location"    OUTPUT FEATURE_TYPE "Sites for First Location_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1"
+DEFAULT_MACRO WB_CURRENT_CONTEXT
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME { CoordinateSystemSetter }    INPUT  FEATURE_TYPE "Sites for First Location_SAFE.ESRI-AGOL.ARCGISFEATURESERVICE_1"    OUTPUT { FEATURE_TYPE CoordinateSystemSetter_OUTPUT         @CoordSys("EPSG:2961")          }
+# -------------------------------------------------------------------------
+# 20210313 - Use Macros to engage/disengage the solid vs. 2d buffering rather than a runtime
+# check to reduce processing overhead
+INCLUDE [if { ("JOIN_ARC" == "JOIN_MITER") } {         } else {             puts "MACRO MITER_TO_USE 0"         };         if { ("AREA" == "SOLID") } {             puts "MACRO SOLIDFACTORYENGAGED *";             puts "MACRO DISSOLVEFACTORYENGAGED NO";         } else {             puts "MACRO SOLIDFACTORYENGAGED NO";             puts "MACRO DISSOLVEFACTORYENGAGED *";         };         ]
+#
+# This is the AREA part of the buffering:
+#
+FACTORY_DEF {$(DISSOLVEFACTORYENGAGED)} PolygonDissolveFactory    FACTORY_NAME { SiteBuffer_2DBuffering }    INPUT  FEATURE_TYPE CoordinateSystemSetter_OUTPUT    FLUSH_WHEN_GROUPS_CHANGE { No }    REJECT_INVALID_GEOM Yes    USE_AZMED_NEIGHBORHOOD Yes    PRE_BUFFER { "2000" "22.5" "CAP_ARC" "JOIN_ARC" "$(MITER_TO_USE)" FULL OFFSET_UNITS "METERS" PRECISION "APPROX" }    DISSOLVE_MODE GEOS    CLEANING_TOLERANCE { AUTO }    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE { <Unused> }    OUTPUT { POLYGON FEATURE_TYPE SiteBuffer_BUFFERED         }    OUTPUT { NON_POLYGON FEATURE_TYPE SiteBuffer_BUFFERED         }    OUTPUT { REJECTED FEATURE_TYPE SiteBuffer_<REJECTED>         }
+#
+# This is the SOLID part of the buffering:
+#
+FACTORY_DEF {$(SOLIDFACTORYENGAGED)} SolidBufferingFactory    FACTORY_NAME { SiteBuffer_3DBuffering }    INPUT  FEATURE_TYPE CoordinateSystemSetter_OUTPUT    SPHERE_RADIUS { "2000" }    SPHERE_DIVISIONS { "<Unused>" }    OUTPUT { BUFFERED FEATURE_TYPE SiteBuffer_BUFFERED        }    OUTPUT { <REJECTED> FEATURE_TYPE SiteBuffer_<REJECTED>        }
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME SiteBuffer_<Rejected> INPUT FEATURE_TYPE SiteBuffer_<REJECTED>  NO_LOGGING   OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, SiteBuffer<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Log<space>and<space>Troubleshoot<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} BoundingBoxFactory    FACTORY_NAME { BoundingBoxAccumulator }    INPUT  FEATURE_TYPE SiteBuffer_BUFFERED    REJECT_INVALID_GEOM YES    BOUNDING_BOX_TYPE GEOMETRIC    FLUSH_WHEN_GROUPS_CHANGE { <Unused> }    ACCUMULATE_ATTRIBUTES { One }    LIST_ATTRS_TO_INCLUDE { <Unused> }    LIST_ATTRS_TO_INCLUDE_MODE { <Unused> }    OUTPUT { REJECTED FEATURE_TYPE BoundingBoxAccumulator_<REJECTED>        }
+DEFAULT_MACRO _WB_BYPASS_TERMINATION No
+FACTORY_DEF * TeeFactory FACTORY_NAME BoundingBoxAccumulator_<Rejected> INPUT FEATURE_TYPE BoundingBoxAccumulator_<REJECTED>  NO_LOGGING   OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, BoundingBoxAccumulator<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Log<space>and<space>Troubleshoot<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
+

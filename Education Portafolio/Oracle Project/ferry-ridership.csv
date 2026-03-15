@@ -1,0 +1,9 @@
+ROUTEID,ROUTENAME,DATE,RIDERSHIP
+1,Dartmouth to Halifax,2017-01-02,547
+2,Halifax to Dartmouth,2017-01-02,558
+3,Halifax to Woodside,2017-01-02,154
+4,Woodside to Halifax,2017-01-02,136
+1,Dartmouth to Halifax,2017-01-03,1272
+2,Halifax to Dartmouth,2017-01-03,1430
+3,Halifax to Woodside,2017-01-03,1010
+4,Woodside to Halifax,2017-01-03,895
