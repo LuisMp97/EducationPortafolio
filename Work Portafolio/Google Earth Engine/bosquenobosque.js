@@ -1,3 +1,10 @@
+/*
+Note:  
+This is not the company’s final product. 
+For data privacy reasons, and with permission from my previous employer, I have uploaded an early version of the code.
+*/
+
+
 // Vector Data
 var Bosque = ee.FeatureCollection("users/luismaldonado/Bosque_2022_Caqueta");
 var No_Bosque = ee.FeatureCollection("users/luismaldonado/No_Bosque_2022_Caqueta");
